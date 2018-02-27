@@ -1,0 +1,6 @@
+framework module AtomRouterSwift {
+  umbrella header "AtomRouterSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
