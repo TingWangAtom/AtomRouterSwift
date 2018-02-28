@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "YohooRouterSwift.h"
 
 FOUNDATION_EXPORT double AtomRouterSwiftVersionNumber;
 FOUNDATION_EXPORT const unsigned char AtomRouterSwiftVersionString[];

@@ -1,8 +1,8 @@
 {
   "name": "AtomRouterSwift",
   "version": "0.1.0",
-  "summary": "A short description of AtomRouterSwift.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "SwiftRouter",
+  "description": "SelfMakingRouterSwiftVersion",
   "homepage": "https://github.com/TingWangAtom/AtomRouterSwift",
   "license": {
     "type": "MIT",
